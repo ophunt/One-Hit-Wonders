@@ -1,0 +1,6 @@
+# Turn on whitelist mode by ignoring everything
+*
+# Show main file, resuts, and this gitignore
+!one_hit_wonders.py
+!artists_final.csv
+!.gitignore
